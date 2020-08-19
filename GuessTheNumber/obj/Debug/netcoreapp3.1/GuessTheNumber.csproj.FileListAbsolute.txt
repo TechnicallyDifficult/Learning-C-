@@ -1,0 +1,12 @@
+/Users/lilith/dotnet/GuessTheNumber/bin/Debug/netcoreapp3.1/GuessTheNumber.deps.json
+/Users/lilith/dotnet/GuessTheNumber/bin/Debug/netcoreapp3.1/GuessTheNumber.runtimeconfig.json
+/Users/lilith/dotnet/GuessTheNumber/bin/Debug/netcoreapp3.1/GuessTheNumber.runtimeconfig.dev.json
+/Users/lilith/dotnet/GuessTheNumber/bin/Debug/netcoreapp3.1/GuessTheNumber.dll
+/Users/lilith/dotnet/GuessTheNumber/bin/Debug/netcoreapp3.1/GuessTheNumber.pdb
+/Users/lilith/dotnet/GuessTheNumber/obj/Debug/netcoreapp3.1/GuessTheNumber.csprojAssemblyReference.cache
+/Users/lilith/dotnet/GuessTheNumber/obj/Debug/netcoreapp3.1/GuessTheNumber.AssemblyInfoInputs.cache
+/Users/lilith/dotnet/GuessTheNumber/obj/Debug/netcoreapp3.1/GuessTheNumber.AssemblyInfo.cs
+/Users/lilith/dotnet/GuessTheNumber/obj/Debug/netcoreapp3.1/GuessTheNumber.csproj.CoreCompileInputs.cache
+/Users/lilith/dotnet/GuessTheNumber/obj/Debug/netcoreapp3.1/GuessTheNumber.dll
+/Users/lilith/dotnet/GuessTheNumber/obj/Debug/netcoreapp3.1/GuessTheNumber.pdb
+/Users/lilith/dotnet/GuessTheNumber/obj/Debug/netcoreapp3.1/GuessTheNumber.genruntimeconfig.cache
