@@ -6,7 +6,7 @@ namespace GuessTheNumber
     {
         static void Main(string[] args)
         {
-        	Console.WriteLine("Echo");
+        	Console.WriteLine("OK");
             Console.WriteLine(Console.ReadLine());
         }
     }
