@@ -24,7 +24,16 @@ namespace Bank
 			Console.WriteLine($"{accounts[0].Owner}: ${accounts[0].Balance}");
 			accounts[0].MakeDeposit(100, DateTime.Now, "Friend paid me back");
 			Console.WriteLine($"{accounts[0].Owner}: ${accounts[0].Balance}");
-		}
 
+			try
+			{
+				accounts.Add(new BankAccount("AAAAAAAAAAAAAAA", -83));
+			}
+			catch (ArgumentOutOfRangeException e)
+			{
+				Console.WriteLine("Exception caught creating account with negative balance");
+				Console.WriteLine(e.ToString());
+			}
+		}
 	}
 }
