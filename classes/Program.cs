@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace classes
 {
@@ -6,8 +7,19 @@ namespace classes
 	{
 		static void Main(string[] args)
 		{
-			var account = new BankAccount("<name>", 1000);
-			Console.WriteLine($"Account {account.Number} was created for {account.Owner} with {account.Balance} initial balance.");
+			var accounts = new List<BankAccount>();
+
+			accounts.Add(new BankAccount("potato", 1000));
+			accounts.Add(new BankAccount("Potted Plant", 1000));
+			accounts.Add(new BankAccount("nobody", 1000));
+
+			Console.WriteLine("Printing account database...");
+			
+			foreach (var account in accounts)
+			{
+				Console.WriteLine($"{account.Number} | {account.Owner} | ${account.Balance}");
+			}
 		}
+
 	}
 }
