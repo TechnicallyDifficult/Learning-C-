@@ -1,0 +1,12 @@
+/Users/lilith/dotnet/Bank/bin/Debug/netcoreapp3.1/Bank.deps.json
+/Users/lilith/dotnet/Bank/bin/Debug/netcoreapp3.1/Bank.runtimeconfig.json
+/Users/lilith/dotnet/Bank/bin/Debug/netcoreapp3.1/Bank.runtimeconfig.dev.json
+/Users/lilith/dotnet/Bank/bin/Debug/netcoreapp3.1/Bank.dll
+/Users/lilith/dotnet/Bank/bin/Debug/netcoreapp3.1/Bank.pdb
+/Users/lilith/dotnet/Bank/obj/Debug/netcoreapp3.1/Bank.csprojAssemblyReference.cache
+/Users/lilith/dotnet/Bank/obj/Debug/netcoreapp3.1/Bank.AssemblyInfoInputs.cache
+/Users/lilith/dotnet/Bank/obj/Debug/netcoreapp3.1/Bank.AssemblyInfo.cs
+/Users/lilith/dotnet/Bank/obj/Debug/netcoreapp3.1/Bank.csproj.CoreCompileInputs.cache
+/Users/lilith/dotnet/Bank/obj/Debug/netcoreapp3.1/Bank.dll
+/Users/lilith/dotnet/Bank/obj/Debug/netcoreapp3.1/Bank.pdb
+/Users/lilith/dotnet/Bank/obj/Debug/netcoreapp3.1/Bank.genruntimeconfig.cache

@@ -1,13 +1,12 @@
 ﻿using System;
-using System.Collections.Generic;
 
-namespace classes
+namespace Bank
 {
 	class Program
 	{
 		static void Main(string[] args)
 		{
-			var accounts = new List<BankAccount>();
+			var accounts = new System.Collections.Generic.List<BankAccount>();
 
 			accounts.Add(new BankAccount("potato", 1000));
 			accounts.Add(new BankAccount("Potted Plant", 1000));

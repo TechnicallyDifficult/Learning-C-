@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/lilith/dotnet/classes/classes.csproj",
-      "projectName": "classes",
-      "projectPath": "/Users/lilith/dotnet/classes/classes.csproj",
+      "projectUniqueName": "/Users/lilith/dotnet/Bank/Bank.csproj",
+      "projectName": "Bank",
+      "projectPath": "/Users/lilith/dotnet/Bank/Bank.csproj",
       "packagesPath": "/Users/lilith/.nuget/packages/",
-      "outputPath": "/Users/lilith/dotnet/classes/obj/",
+      "outputPath": "/Users/lilith/dotnet/Bank/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/lilith/.nuget/NuGet/NuGet.Config"
