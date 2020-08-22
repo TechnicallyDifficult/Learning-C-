@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Bank
 {
@@ -6,7 +7,7 @@ namespace Bank
 	{
 		static void Main(string[] args)
 		{
-			var accounts = new System.Collections.Generic.List<BankAccount>();
+			var accounts = new List<BankAccount>();
 
 			accounts.Add(new BankAccount("potato", 1000));
 			accounts.Add(new BankAccount("Potted Plant", 1000));
