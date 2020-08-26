@@ -44,6 +44,8 @@ namespace Bank
 				Console.WriteLine("Exception caught trying to overdraw");
 				Console.WriteLine(e.ToString());
 			}
+
+			Console.WriteLine(accounts[0].GetAccountHistory());
 		}
 	}
 }
