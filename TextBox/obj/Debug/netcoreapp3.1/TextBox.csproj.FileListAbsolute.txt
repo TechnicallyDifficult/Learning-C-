@@ -1,0 +1,12 @@
+/Users/lilith/dotnet/TextBox/bin/Debug/netcoreapp3.1/TextBox.deps.json
+/Users/lilith/dotnet/TextBox/bin/Debug/netcoreapp3.1/TextBox.runtimeconfig.json
+/Users/lilith/dotnet/TextBox/bin/Debug/netcoreapp3.1/TextBox.runtimeconfig.dev.json
+/Users/lilith/dotnet/TextBox/bin/Debug/netcoreapp3.1/TextBox.dll
+/Users/lilith/dotnet/TextBox/bin/Debug/netcoreapp3.1/TextBox.pdb
+/Users/lilith/dotnet/TextBox/obj/Debug/netcoreapp3.1/TextBox.csprojAssemblyReference.cache
+/Users/lilith/dotnet/TextBox/obj/Debug/netcoreapp3.1/TextBox.AssemblyInfoInputs.cache
+/Users/lilith/dotnet/TextBox/obj/Debug/netcoreapp3.1/TextBox.AssemblyInfo.cs
+/Users/lilith/dotnet/TextBox/obj/Debug/netcoreapp3.1/TextBox.csproj.CoreCompileInputs.cache
+/Users/lilith/dotnet/TextBox/obj/Debug/netcoreapp3.1/TextBox.dll
+/Users/lilith/dotnet/TextBox/obj/Debug/netcoreapp3.1/TextBox.pdb
+/Users/lilith/dotnet/TextBox/obj/Debug/netcoreapp3.1/TextBox.genruntimeconfig.cache
