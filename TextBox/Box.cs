@@ -17,7 +17,7 @@ namespace TextBox
 
 			result += "┌";
 
-			for (var i = 0; i < this.Message.Length + 2; i++) 
+			for (int ii = 0; ii < this.Message.Length + 2; ++ii) 
 			{
 				result += "─";
 			}
@@ -26,7 +26,7 @@ namespace TextBox
 			result += $"│ {this.Message} │\n";
 			result += "└";
 
-			for (var i = 0; i < this.Message.Length + 2; i++) 
+			for (int ii = 0; ii < this.Message.Length + 2; ++ii) 
 			{
 				result += "─";
 			}
