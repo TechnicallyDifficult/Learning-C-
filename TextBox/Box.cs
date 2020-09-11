@@ -1,4 +1,5 @@
 using System;
+using System.Text;
 
 namespace TextBox
 {
@@ -13,27 +14,25 @@ namespace TextBox
 
 		public string Draw()
 		{
-			string result = "";
-
-			result += "┌";
+			StringBuilder result = new StringBuilder("┌");
 
 			for (int ii = 0; ii < this.Message.Length + 2; ++ii) 
 			{
-				result += "─";
+				result.Append("─");
 			}
 
-			result += "┐\n";
-			result += $"│ {this.Message} │\n";
-			result += "└";
+			result.Append("┐\n");
+			result.Append($"│ {this.Message} │\n");
+			result.Append("└");
 
 			for (int ii = 0; ii < this.Message.Length + 2; ++ii) 
 			{
-				result += "─";
+				result.Append("─");
 			}
 
-			result += "┘";
+			result.Append("┘");
 
-			return result;
+			return result.ToString();
 		}
 	}
 }
