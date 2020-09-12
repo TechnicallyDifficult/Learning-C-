@@ -1,0 +1,12 @@
+/Users/lilith/dotnet/BoxDrawing/bin/Debug/netcoreapp3.1/BoxDrawing.deps.json
+/Users/lilith/dotnet/BoxDrawing/bin/Debug/netcoreapp3.1/BoxDrawing.runtimeconfig.json
+/Users/lilith/dotnet/BoxDrawing/bin/Debug/netcoreapp3.1/BoxDrawing.runtimeconfig.dev.json
+/Users/lilith/dotnet/BoxDrawing/bin/Debug/netcoreapp3.1/BoxDrawing.dll
+/Users/lilith/dotnet/BoxDrawing/bin/Debug/netcoreapp3.1/BoxDrawing.pdb
+/Users/lilith/dotnet/BoxDrawing/obj/Debug/netcoreapp3.1/BoxDrawing.csprojAssemblyReference.cache
+/Users/lilith/dotnet/BoxDrawing/obj/Debug/netcoreapp3.1/BoxDrawing.AssemblyInfoInputs.cache
+/Users/lilith/dotnet/BoxDrawing/obj/Debug/netcoreapp3.1/BoxDrawing.AssemblyInfo.cs
+/Users/lilith/dotnet/BoxDrawing/obj/Debug/netcoreapp3.1/BoxDrawing.csproj.CoreCompileInputs.cache
+/Users/lilith/dotnet/BoxDrawing/obj/Debug/netcoreapp3.1/BoxDrawing.dll
+/Users/lilith/dotnet/BoxDrawing/obj/Debug/netcoreapp3.1/BoxDrawing.pdb
+/Users/lilith/dotnet/BoxDrawing/obj/Debug/netcoreapp3.1/BoxDrawing.genruntimeconfig.cache
