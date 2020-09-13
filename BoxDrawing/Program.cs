@@ -6,9 +6,7 @@ namespace BoxDrawing
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Input:");
-
-			var box = new Box(Console.ReadLine());
+			var box = new Box();
 			
 			Console.WriteLine(box.Draw());
 		}
