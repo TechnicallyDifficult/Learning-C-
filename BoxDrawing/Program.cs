@@ -6,7 +6,7 @@ namespace BoxDrawing
 	{
 		static void Main(string[] args)
 		{
-			var box = new Box();
+			var box = new Box(8, 16);
 			
 			Console.WriteLine(box.Draw());
 		}
